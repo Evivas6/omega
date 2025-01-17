@@ -1,0 +1,2 @@
+# omega
+Empresa de Tecnologia
