@@ -1,0 +1,78 @@
+/* TIPO DE LETRA */
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+/* IMAGEN DE FONDO */
+body{
+    background-image: url(./verde\ y\ negro1.jpg);
+}
+
+/* COLOR DE TODOS LOS H1 */
+
+a{
+    color: chartreuse;
+}
+
+
+/* TITULO CENTRADO */
+#titulo{
+    color: aliceblue;
+    font-size: 64px;
+    width: 100%;
+    text-align: center;
+    
+}
+#cara{
+    padding: 0.10mm;
+
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 12px;
+    margin: 50px;
+}
+
+
+ul a{
+    text-decoration: none;
+    background-color: black;
+    padding: 12px;
+   
+    border-radius: 20px ;
+    margin-bottom: 100px;
+}
+#con
+{
+    text-decoration: none;
+    background-color: black;
+    padding: 12px;
+    border-radius: 20px ;
+    margin-bottom: 100px;
+}
+#con1
+{
+   
+    text-decoration: none;
+    background-color: black;
+    padding: 12px;
+    border-radius: 20px ;
+    
+}
+#con2{
+    border-radius: 20px ;
+}
+#con3{
+    text-decoration: none;
+    
+    padding: 12px;
+    
+   
+    
+}
+
+
